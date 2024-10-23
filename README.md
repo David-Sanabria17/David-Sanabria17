@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy David Sanabria
 
-<!--
-**David-Sanabria17/David-Sanabria17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería de Sistemas
+### www.linkedin.com/in/david-sanabria-387a1a2a2
+Soy un apasionado por el desarrollo de software, actualmente estudiando **Ingeniería de Sistemas**. Me gusta aprender y mejorar mis habilidades en programación, y siempre estoy buscando nuevos retos y proyectos que me permitan crecer tanto personal como profesionalmente.
 
-Here are some ideas to get you started:
+### Lenguajes y Tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**: Desarrollo de aplicaciones orientadas a objetos.
+- **JavaScript**: Creación de interfaces web dinámicas y funcionalidades para sitios interactivos.
+- **C++**: Optimización y resolución de problemas complejos mediante programación eficiente.
+### Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/david-sanabria-387a1a2a2)
